@@ -1,6 +1,6 @@
 # Ionic 4 Spinner Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Spinner Tutorial](https://www.youtube.com/watch?v=KAWaMWSVNno).
+This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Spinner Tutorial](https://www.youtube.com/watch?v=KAWaMWSVNno) as well as the blog article [Ionic 4 Spinner Tutorial](https://blog.jamibot.com/ionic-4-spinner).
 
 [![Ionic 4 Spinner
 Tutorial](https://img.youtube.com/vi/KAWaMWSVNno/maxresdefault.jpg)](https://www.youtube.com/watch?v=KAWaMWSVNno)
