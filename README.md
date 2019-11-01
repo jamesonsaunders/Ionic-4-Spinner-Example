@@ -1,13 +1,13 @@
 # Ionic 4 Spinner Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Spinner Tutorial](https://www.youtube.com/watch?v=KAWaMWSVNno) as well as the blog article [Ionic 4 Spinner Tutorial](https://blog.jamibot.com/ionic-4-spinner).
+This project accompanies the [Jameson Saunders](https://jamesonsaunders.com) YouTube video [Ionic 4 Spinner Tutorial](https://www.youtube.com/watch?v=KAWaMWSVNno) as well as the blog article [Ionic 4 Spinner Tutorial](https://blog.jamibot.com/ionic-4-spinner).
 
 [![Ionic 4 Spinner
 Tutorial](https://img.youtube.com/vi/KAWaMWSVNno/maxresdefault.jpg)](https://www.youtube.com/watch?v=KAWaMWSVNno)
 
 A complete demonstration of how to use all the different features the ion-spinner has to offer. Full of examples of color, animation speed, pausing, etc.
 
-If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development tutorials.
+If you haven't already, check out the [Jameson Saunders YouTube Channel](https://youtube.com/c/JamesonSaunders) for web development tutorials.
 
 ## Installation
 
